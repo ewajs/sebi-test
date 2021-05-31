@@ -6,4 +6,4 @@ greet(last_name)
 age = input("edad: ")
 print(f"{age} upa es bastante")
 gender = input("genero: ")
-print(f"{gender}")
+print(f"{gender}") # Deberiamos dar varias opciones
