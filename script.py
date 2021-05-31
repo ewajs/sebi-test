@@ -11,3 +11,4 @@ weight = input("peso: ")
 print(f"{weight}")
 height = input("altura: ")
 print(f"{height}")
+# Hola Sebi
