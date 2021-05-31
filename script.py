@@ -12,3 +12,5 @@ print(f"{weight}")
 height = input("altura: ")
 print(f"{height}")
 # Hola Sebi
+zodiac = input("Falopa con tu fecha de nacimiento: ")
+print(f"{zodiac}")
