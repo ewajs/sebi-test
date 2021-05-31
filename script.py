@@ -7,3 +7,5 @@ age = input("edad: ")
 print(f"{age} upa es bastante")
 gender = input("genero: ")
 print(f"{gender}") # Deberiamos dar varias opciones
+height = input("altura: ")
+print(f"{height}")
