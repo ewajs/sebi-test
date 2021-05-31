@@ -9,3 +9,5 @@ gender = input("genero: ")
 print(f"{gender}") # Deberiamos dar varias opciones
 weight = input("peso: ")
 print(f"{weight}")
+height = input("altura: ")
+print(f"{height}")
